@@ -8,7 +8,7 @@ set version=1.0
 set packaging=jar
 set url=http://192.168.8.3:8080/nexus/content/repositories/Release
 set repositoryId=nexus-repos
-set classifier=assembly
+set classifier=interface-only
 set file=.\target\%artifactId%-%version%-%classifier%.%packaging%
 rem 
 echo 
