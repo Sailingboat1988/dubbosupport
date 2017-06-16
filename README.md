@@ -1,5 +1,5 @@
-## dubbo脚手架
-在借鉴dubbo官方的源码及脚本的基础之上做了一些封装，以方便开发者更快的搭建起自己的dubbo应用
+# Dubbo-Support
+本项目在借鉴Dubbo官方的源码及脚本的基础之上做了一些封装，以方便开发者更快的搭建起自己的dubbo应用
 
 ## 创建自己的Provider应用
 请参照用示例 `dubbosupport-sample-provider`
